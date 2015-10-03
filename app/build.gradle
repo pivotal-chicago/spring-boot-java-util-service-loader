@@ -34,6 +34,9 @@ targetCompatibility = 1.8
 
 dependencies {
     compile 'org.springframework.boot:spring-boot-starter'
+    compile project(':dictionary-spi')
+    compile project(':basic-dictionary')
+    compile project(':extended-dictionary')
 
     testCompile 'org.springframework.boot:spring-boot-starter-test'
 }
