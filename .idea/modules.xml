@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-dictionary/basic-dictionary.iml" filepath="$PROJECT_DIR$/basic-dictionary/basic-dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dictionary-spi/dictionary-spi.iml" filepath="$PROJECT_DIR$/dictionary-spi/dictionary-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extended-dictionary/extended-dictionary.iml" filepath="$PROJECT_DIR$/extended-dictionary/extended-dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-java-util-service-loader.iml" filepath="$PROJECT_DIR$/spring-boot-java-util-service-loader.iml" />
+    </modules>
+  </component>
+</project>

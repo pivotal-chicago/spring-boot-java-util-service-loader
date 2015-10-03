@@ -1,0 +1,1 @@
+include 'app', 'dictionary-spi', 'basic-dictionary', 'extended-dictionary'
