@@ -52,3 +52,9 @@ repositories {
         url springMilestoneRepo
     }
 }
+
+test {
+  testLogging {
+    events 'passed', 'failed'
+  }
+}
